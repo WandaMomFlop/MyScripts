@@ -1,16 +1,16 @@
 --[[
 
-Hank HUB Login
+Avalo login hub
 
-Made by Hank#4242
+Made by xont#0001
 
-Discord server = "https://discord.io/hankhub"
+Discord server = "Discord.gg/AvaloScripts"
 
 ]]
 
 -- Key --
 
-_G.Key = "Bonnie020902zhellfire"
+_G.Key = "AvaloTesting"
 
 -- Variables --
 
@@ -588,3 +588,4 @@ visibility_off.MouseButton1Click:Connect(function()
     wait(0.4)
     TextBox_Login.BackgroundColor3 = Color3.fromRGB(25, 25, 25)
 end)
+
